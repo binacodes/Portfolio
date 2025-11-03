@@ -30,14 +30,14 @@ const About = () => {
           <div className="space-y-8">
             <Card className="p-8 bg-card border-border">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                I'm a passionate full-stack developer with a keen eye for design and a love for building
-                exceptional digital experiences. With expertise in modern web technologies, I transform
-                ideas into elegant, functional solutions.
+                I'm a data-driven professional with a passion for uncovering insights and turning complex datasets into actionable solutions. 
+                With expertise in statistical analysis, data visualization, and data manipulation, I transform raw data into clear, strategic 
+                insights that drive business decisions.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source
-                projects, or sharing knowledge with the developer community. I believe in continuous learning
-                and pushing the boundaries of what's possible on the web.
+                When I'm not analyzing data, you can find me exploring the latest data tools, collaborating on open-source projects, or sharing 
+                insights with the data community. I believe in continuous learning and using data to solve real-world problems and make impactful 
+                decisions.
               </p>
             </Card>
 
