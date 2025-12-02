@@ -33,12 +33,15 @@ const Hero = () => {
               Bina Pokhrel
             </span>
           </h1>
+
           <h2 className="text-2xl sm:text-3xl lg:text-4xl text-muted-foreground font-light">
-            Data Analyst
+            Software Developer
           </h2>
+
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Transforming data into actionable insights. Specialized in data analysis, data science, 
-            and building interactive solutions with modern web technologies.
+            Aspiring software developer currently exploring all areas of development, 
+            with a growing interest in frontend technologies. Passionate about learning, 
+            creating, and building meaningful digital experiences.
           </p>
 
           {/* Social Links */}
