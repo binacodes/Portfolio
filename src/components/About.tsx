@@ -30,15 +30,15 @@ const About = () => {
           <div className="space-y-8">
             <Card className="p-8 bg-card border-border">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                I'm a data-driven professional with a passion for uncovering insights and turning complex datasets into actionable solutions. 
-                With expertise in statistical analysis, data visualization, and data manipulation, I transform raw data into clear, strategic 
-                insights that drive business decisions.
+               As a dedicated Computer Science student and an aspiring software developer, I am driven by a deep passion for learning and implementing code. My academic journey is focused on mastering the foundational principles of computing and emerging technologies.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                When I'm not analyzing data, you can find me exploring the latest data tools, collaborating on open-source projects, or sharing 
-                insights with the data community. I believe in continuous learning and using data to solve real-world problems and make impactful 
-                decisions.
+                Beyond my core studies, I bring a unique blend of creativity and technical skill. I am a proficient Graphic Designer, utilizing visual storytelling to enhance digital projects and user experiences. Additionally, I maintain a regular blog where I share insights, tutorials, and reflections on technology, design, and the coding process.
               </p>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+                I am actively seeking opportunities that allow me to combine my technical knowledge with my creative skills, committed to building innovative, user-centric solutions.
+                </p>
+
             </Card>
 
             <div className="grid md:grid-cols-3 gap-6 pt-8">
